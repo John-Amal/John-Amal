@@ -22,22 +22,48 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
+---
+
 ### 📊 Data & Modeling
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![xarray](https://img.shields.io/badge/xarray-5A9BD5?style=for-the-badge)
 ![earthkit](https://img.shields.io/badge/earthkit-0A3D62?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Zarr](https://img.shields.io/badge/Zarr-FF6F00?style=for-the-badge)
+![netCDF4](https://img.shields.io/badge/netCDF4-003366?style=for-the-badge)
+![HDF5](https://img.shields.io/badge/HDF5-1E4D2B?style=for-the-badge)
+![CDO](https://img.shields.io/badge/CDO-2E8B57?style=for-the-badge)
+![NCO](https://img.shields.io/badge/NCO-556B2F?style=for-the-badge)
+
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Cartopy](https://img.shields.io/badge/Cartopy-003B5C?style=for-the-badge)
+![ParaView](https://img.shields.io/badge/ParaView-FF6600?style=for-the-badge)
 
-### ⚙️ DevOps & Workflow
+---
+
+### ⚙️ HPC & Workflow
+![SLURM](https://img.shields.io/badge/SLURM-000000?style=for-the-badge)
+![Snakemake](https://img.shields.io/badge/Snakemake-4CAF50?style=for-the-badge)
+![Autosubmit](https://img.shields.io/badge/Autosubmit-1E90FF?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
 
 ### 🧾 Documentation & Design
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
