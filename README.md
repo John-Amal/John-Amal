@@ -1,5 +1,5 @@
 # 💫 About Me:
-**High-impact Research Scientist** with 5+ years of experience bridging the gap between complex climate physics and operational data science. 
+Applied scientist with 5+ years of experience working at the interface of **climate physics**, **high-performance computing**, and **data science**.
 
 * **Core Expertise:** Building automated, scalable data pipelines and Earth System Models (ESMs) within HPC environments. 
 * **Specialization:** Delivering high-integrity datasets via advanced uncertainty quantification and data assimilation. 
