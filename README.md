@@ -97,12 +97,9 @@ I build automated, scalable data pipelines and Earth System Models (ESMs) within
 
 <br>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=John-Amal&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Amal&layout=compact&hide_border=true" />
+<img src="assets/banner-animated.svg" alt="banner" width="100%" />
 
 </div>
 
