@@ -35,11 +35,11 @@ Currently a postdoctoral researcher at the Alfred Wegener Institute, where I led
 | --- | --- | --- |
 | [**Tail-Risk-Toolkit**](https://github.com/John-Amal/Tail-Risk-Toolkit) | MCP server giving an LLM agent market-risk tools (VaR, Expected Shortfall, Kupiec/Christoffersen backtests, EVT) plus a RAG knowledge base with hybrid search and a relevance guardrail | Python, MCP, BM25, sentence-transformers |
 | [**cirrus**](https://github.com/John-Amal/cirrus) | Small foundation model built end to end: transformer with self-supervised pretraining, benchmarked training objectives, exported to ONNX and served as a live API | PyTorch, Hugging Face Hub, FastAPI, Docker |
+| [**catagg**](https://github.com/John-Amal/catagg) | Monte Carlo risk aggregation engine: exceedance curves, TVaR and layered risk-transfer structures, with standard errors validated by replication (in development) | Python, NumPy, SciPy |
 | [**alpine-flood-lstm**](https://github.com/John-Amal/alpine-flood-lstm) | Regional LSTM forecasting model evaluated out of sample on fully held-out units, including tail quantiles | PyTorch, NeuralHydrology |
 | [**climate-risk-explorer**](https://github.com/John-Amal/climate-risk-explorer) | End-to-end risk-indicator pipeline served through a containerised dashboard with automated deployment | Python, Plotly Dash, Docker, GitHub Actions |
 | [**aifs-workflow-manager**](https://github.com/John-Amal/aifs-workflow-manager) | Web interface that fully automates data retrieval, ensemble generation and GPU job submission for AI forecast runs on HPC | Python, SLURM |
 | [**activity-wrapped**](https://github.com/John-Amal/activity-wrapped) | Full-stack analytics web app with OAuth API integration, server-side rendering and bootstrapped projections | FastAPI, JavaScript |
-| [**catagg**](https://github.com/John-Amal/catagg) | Monte Carlo risk aggregation engine: exceedance curves, TVaR and layered risk-transfer structures, with standard errors validated by replication (in development) | Python, NumPy, SciPy |
 
 <br>
 
